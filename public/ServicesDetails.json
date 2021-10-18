@@ -1,0 +1,94 @@
+{
+    "ser": [
+        {
+            "id": "1",
+            "title": "Doggie Daycare",
+            "shortTitle": "Daycare that’s safe and fun",
+            "duration": "1 Month",
+            "shortDescription": "Looking for a Memphis doggie daycare so you know your pooch is in good hands while you’re at work, at school or just out of the house for a while? Look no further than The Pet Hospitals.",
+            "description": "Our safe, secure and caring environment is a great place for your pet to spend time with friendly people and have some fun while you’re at work or out running errands. With appealing and safe play areas that offer plenty of room to run, our premier greater Memphis dog day care locations are a great place for your pet to get some supervised play time and exercise while you do whatever you need to do. We also offer Socialization Sessions at our Collierville, Downtown, Lakeland, and Midtown Memphis locations to help your dog acclimate to new situations, pets, and people. Our Doggie Daycare amenities are a great value at $17/day and include: A safe, climate controlled environment that is protected by a 24-hour fire, smoke, and heat monitoring id and sprinkler system Secure, outdoor play space Indoor dog runs The security of a doctor on call 24/7",
+            "price": "10,000",
+            "img": "https://cdn.pixabay.com/photo/2016/11/01/23/41/massage-1790063_960_720.jpg"
+        },
+        {
+            "id": "2",
+            "title": "Adoption Program",
+            "shortTitle": "Adoption that’s safe for them",
+            "duration": "Permanent",
+            "shortDescription": "Adopt a pet from a shelter or rescue organization and The Pet Hospitals will donate the initial exam and vaccines.",
+            "description": "The staff at The Pet Hospitals strongly believe that all dogs and cats deserve a good, loving home. To help orphaned animals find homes and to reduce the number of pets euthanized in our communities, The Pet Hospitals is proud to support our local rescue groups and shelters, as well as the pet parents who choose to adopt (potential adopters). We provide free pet health care ids at our animal clinics to get your new pet off on the right paw should you adopt. Potential adopters adopting a puppy, kitten, adult dog, or adult cat from a rescue group or shelter, The Pet Hospitals will provide: Any necessary booster vaccines for adult pets at the time of its initial exam (within 30 days of adoption). A complete vaccine series for puppies or kittens at no charge. Physical examination. Nutritional and behavioral counseling. Subsequent required office visits for vaccines with puppies and kittens.",
+            "price": "30,000",
+            "img": "https://cdn.pixabay.com/photo/2017/07/18/22/23/girl-2517252_960_720.jpg"
+        },
+        {
+            "id": "3",
+            "title": "For Cats",
+            "shortTitle": "New Kitten Vaccine Program",
+            "duration": "1 Month",
+            "shortDescription": "Bringing a new kitten home is fun, and it’s easy to fall in love with your adorable new family member. However, kittens require planning and care, so we’re here to help.",
+            "description": "Wellness visit, exams, and vaccinations. The Pet Hospitals will cover your kitten’s wellness examinations by a veterinarian, core vaccines (Feline Distemper, Feline Leukemia, and Rabies), internal parasite testing, and routine deworming for just $39 each visit in their kitten series. Even the youngest pets can carry diseases and parasites, so we want to keep your new friend safe and healthy at an affordable price. Low cost, high-quality neuter & spay packages. Spaying and neutering is important to your pet’s health and well-being. That’s why we have created a package that offers low cost spay and neuter ids that won’t compromise the health and safety of your pet.",
+            "price": "5,000",
+            "img": "https://cdn.pixabay.com/photo/2019/08/05/11/58/health-4385852_960_720.jpg"
+        },
+        {
+            "id": "4",
+            "title": "Pet Boarding",
+            "shortTitle": "Give your pet a staycation.",
+            "duration": "6 Month",
+            "shortDescription": "The Puppy Package was perfect for us. It kept us on schedule and everything was affordable.",
+            "description": "From daily exercise and playtime to complimentary breakfasts and dinners, and the loving care and attention that our staff provides, a staycation at The Pet Hospitals is the next best thing to being home. Our dog boarding ids include: Drop off and pick up 7 days/week without additional fees. A safe, climate-controlled environment that is protected by a 24-hour fire, smoke, and heat monitoring id and sprinkler system for a full day of play. Secure, outdoor play space. Outdoor walks 3 times a day in our play spaces. Indoor dog runs. Fresh linens provided throughout your dog’s stay. Complimentary meals that are yummy and easy on tummies for our nervous guests. The security of a doctor on call 24/7. If your dog stays for 3 nights, they will receive a discounted bath. If your pup stays 5+ nights, their bath is on us! We also offer Doggie Daycare at our Collierville, Downtown, Lakeland, and Midtown Memphis locations to help your dog acclimate to new situations, pets, and people during their stay for only $11/day, which is a great value.",
+            "price": "15,000",
+            "img": "https://cdn.pixabay.com/photo/2016/05/29/21/06/cat-1423844_960_720.jpg"
+        },
+        {
+            "id": "5",
+            "title": "Pharmacy",
+            "shortTitle": "Safety first.",
+            "duration": "10 Days",
+            "shortDescription": "We know you’re busy, so we make prescription orders and refills easy. Order online via our website or give us a call, and we’ll have your pet’s meds ready in no time.",
+            "description": "At The Pet Hospitals, we want our patients to get the correct medication at the proper dosage. Because of that, we price match competitively with the major online pet pharmacies. Online medications can be gray market products, so we will always price match to keep your pet safe. When it comes to your pet’s health and safety, please don’t guess with medication. How to order your pet’s meds online: Click on Client Login at the top of the website and login. From there, you can view your pet’s medical records and order prescription refills. Should you have any questions, don’t hesitate to call us or chat using the Chat Now feature on our website.",
+            "price": "12,000",
+            "img": "https://cdn.pixabay.com/photo/2017/08/15/16/27/cat-2644617_960_720.jpg"
+        },
+        {
+            "id": "6",
+            "title": "For Dogs",
+            "shortTitle": "New Puppy Vaccine Program",
+            "duration": "7 Days",
+            "shortDescription": "Bringing a new puppy home is fun, and it’s easy to fall in love with your cute, new family member. However, puppies require planning and care, so we’re here to help. Not only do we offer the highest quality veterinary ids for dogs, but we keep it affordable for their humans!",
+            "description": "Wellness visit, exams, and vaccinations The Pet Hospitals will cover your puppy’s core vaccines (includes Rabies, Distemper, Parvo, Lepto, and Bordetella), routine deworming, intestinal parasite checks, and a physical exam by a veterinarian for just $39 each visit in their puppy series. Even the youngest pets can carry diseases and parasites, so we want to keep your new friend safe and healthy at an affordable price. Depending on your puppy’s lifestyle, we will also vaccinate your new puppy with the dual strain Canine Influenza vaccination (aka dog flu). This vaccine is necessary for dog parks, boarding, grooming, or anywhere your puppy could come in contact with other dogs. Low cost, high-quality neuter & spay packages. Spaying and neutering is important to your pet’s health and well-being. That’s why we created a package that offers low cost spay and neuter ids that won’t compromise the health and safety of your pet. How Dog Vets Can Meet Your Puppy’s Needs. Taking your new puppy on its first trip to the vet can be stressful, but it’s important to give your new friend the best start for a healthy life! The right vet’s office can help make the experience a lot easier and help you to properly care for your puppy. And with many convenient locations, The Pet Hospitals helps pups in the Memphis area grow up healthy and strong. A puppy vet like the doctors at The Pet Hospitals will do everything needed to ensure that your puppy remains healthy and safe. For example, at that first checkup, the vet will perform a checkup on your puppy to ensure that it is in good health and everything looks normal. Some of the areas the vet will check include your puppy’s: General appearance. Eyes. Ears. Mouth and teeth. Coat and skin.  Respiratory. Cardiovascular (heart health). Gastrointestinal. Urogenital. Lymphatic system. Musculoskeletal functions. Neurological functions. If necessary, the checkup may also include taking a stool sample, setting up a vaccination schedule and seeing if your puppy has a flea and tick problem. We Put You and Your Pup At Ease. At all our animal hospital locations, we focus on making vet visits less stressful for you and your puppy. We offer cutting-edge veterinary medicine to treat or prevent all kinds of problems. It’s our mission to provide your puppy with the best care available and focus on keeping your dog healthy and happy as it grows.",
+            "price": "25,000",
+            "img": "https://cdn.pixabay.com/photo/2016/10/06/03/29/dog-1718097_960_720.jpg"
+        },
+        {
+            "id": "7",
+            "title": "Emergency",
+            "shortTitle": "Emergency Veterinarian ids",
+            "duration": "Temporary",
+            "shortDescription": "In case you ever need an emergency veterinarian in the Memphis area, keep our contact info handy! We have locations open seven days a week and there is always a doctor ready to help you with your pet’s medical record on hand.",
+            "description": "We are animal lovers too, and we know that accidents don’t always happen during office hours. A Pet Hospitals emergency veterinary doctor can always be reached around the clock via our on-call pager system. Many times, the doctor can help you determine whether your pet needs emergency care or if the problem can wait until the office is open. However, if you know that you need a Memphis emergency vet immediately while our offices are closed, we recommend that you take your pet to one of our partners (emergency clinics) based on your location. PetMed Emergency Center is located in Cordova and Animal Emergency Center is located near Midtown, and they offer: After-hours hospitalization and monitoring. Emergency medicine. Emergency vet care for trauma, accidents, sudden illnesses, and assistance with chronic ailments.  Specialized diagnostics. Complete surgical ids. Our partners’ contact information is below. We hope that you and your furry friends never need emergency vet care, but it’s better to be safe than sorry!",
+            "price": "35,000",
+            "img": "https://cdn.pixabay.com/photo/2016/08/01/20/04/cat-1561948_960_720.jpg"
+        },
+        {
+            "id": "8",
+            "title": "Training",
+            "shortTitle": "Behavior training that’s positive and effective.",
+            "duration": "Permanent",
+            "shortDescription": "We know how hard it is raising the perfect puppy, and it seems impossible to teach an old dog new tricks. But if your dog shows some of the signs of needing obedience training.",
+            "description": "Our behavioral specialist is a highly accredited and extremely experienced professional who loves positive reinforcement training and helping owners to correct their animal companion’s bad habits — even their pet’s worst habits that seem hardest to break. We offer convenient private drop-off training sessions and monthly group training sessions at all of our locations. We also offer in-home training sessions for pets who feel more comfortable on their own turf. So whether you prefer your dog training to happen in a group class, one on one, or even in the comfort of your own home, it’s your choice! We are ready and willing to accommodate your and your dog’s needs. Give us a call to sign up for our Memphis dog training that will help your pet become the best he or she can be.",
+            "price": "50,000",
+            "img": "https://cdn.pixabay.com/photo/2013/09/26/18/45/parrots-186778_960_720.jpg"
+        },
+        {
+            "id": "9",
+            "title": "Doggie Daycare",
+            "shortTitle": "Daycare that’s safe and fun",
+            "duration": "1 Month",
+            "shortDescription": "Looking for a Memphis doggie daycare so you know your pooch is in good hands while you’re at work, at school or just out of the house for a while? Look no further than The Pet Hospitals.",
+            "description": "Our safe, secure and caring environment is a great place for your pet to spend time with friendly people and have some fun while you’re at work or out running errands. With appealing and safe play areas that offer plenty of room to run, our premier greater Memphis dog day care locations are a great place for your pet to get some supervised play time and exercise while you do whatever you need to do. We also offer Socialization Sessions at our Collierville, Downtown, Lakeland, and Midtown Memphis locations to help your dog acclimate to new situations, pets, and people. Our Doggie Daycare amenities are a great value at $17/day and include: A safe, climate controlled environment that is protected by a 24-hour fire, smoke, and heat monitoring id and sprinkler system Secure, outdoor play space Indoor dog runs The security of a doctor on call 24/7",
+            "price": "10,000",
+            "img": "https://cdn.pixabay.com/photo/2016/11/01/23/41/massage-1790063_960_720.jpg"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+.trainer-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 15px;
+}
+.trainer {
+    border: 1px solid rgb(182, 182, 182);
+    border-radius: 5px;
+    
+}
+h4 {
+    color: green;
+}
