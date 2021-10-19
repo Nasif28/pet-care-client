@@ -27,7 +27,7 @@ const Details = (props) => {
 
     // console.log(singleService);
     return (
-        <div className="container">
+        <div id="details" className="container">
             <h1 className="fw-bold text-success my-5">Details of {singleService?.title}</h1>
             <div className="row row-cols-1 row-cols-md-2 g-4">
                 <div className="col">
