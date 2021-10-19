@@ -2,7 +2,6 @@ import React from 'react';
 import { useParams } from 'react-router';
 import { useEffect, useState } from 'react';
 import { Button } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
 
 const Details = (props) => {
     const { service } = useParams();
