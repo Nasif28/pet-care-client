@@ -15,8 +15,10 @@ const Header = () => {
                     <Navbar.Collapse className="justify-content-center">
                         <Nav.Link as={HashLink} to="/home#home">Home</Nav.Link>
                         <Nav.Link as={HashLink} to="/home#services">Services</Nav.Link>
-                        <Nav.Link as={Link} to="/Vats">Vats</Nav.Link>
-                        <Nav.Link as={Link} to="/about">About</Nav.Link>
+                        <Nav.Link as={HashLink} to="/home#clients">Clients</Nav.Link>
+                        <Nav.Link as={HashLink} to="/home#welcome">Welcome</Nav.Link>
+                        <Nav.Link as={HashLink} to="/vats#vats">Vats</Nav.Link>
+                        <Nav.Link as={HashLink} to="/about#about">About</Nav.Link>
 
                         {user?.email ?
                             <Navbar.Text className="ms-auto">

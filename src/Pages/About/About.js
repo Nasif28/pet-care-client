@@ -5,7 +5,7 @@ import './About.css'
 const About = () => {
     return (
         <div>
-            <div className="row cover1">
+            <div id="about" className="row cover1">
                 <div className="col-md-6">
 
                 </div>

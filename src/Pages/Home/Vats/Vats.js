@@ -1,22 +1,22 @@
 import React from 'react';
 import './Vats.css';
-import i1 from '../../images/1.jpg';
-import i2 from '../../images/2.jpg';
-import i3 from '../../images/3.jpg';
-import i4 from '../../images/4.jpg';
-import i5 from '../../images/5.jpg';
-import i6 from '../../images/6.jpg';
-import i7 from '../../images/7.jpg';
-import i8 from '../../images/8.jpg';
-import i9 from '../../images/9.jpg';
-import i10 from '../../images/10.jpg';
+import i1 from '../../../images/1.jpg';
+import i2 from '../../../images/2.jpg';
+import i3 from '../../../images/3.jpg';
+import i4 from '../../../images/4.jpg';
+import i5 from '../../../images/5.jpg';
+import i6 from '../../../images/6.jpg';
+import i7 from '../../../images/7.jpg';
+import i8 from '../../../images/8.jpg';
+import i9 from '../../../images/9.jpg';
+import i10 from '../../../images/10.jpg';
 
 const Vats = () => {
     return (
-        <div>
-            <section class="container bg-white rounded p-3 my-3">
+        <div id="vats">
+            <section class="container bg-white rounded">
                 <div>
-                    <h1 class="text-success m-5">Our Vats</h1>
+                    <h1 class="fw-bold text-success m-3">Our Vats</h1>
                     <div class="trainer-container row p-2">
                         <div className="trainer">
                             <div class="row d-flex align-items-center">

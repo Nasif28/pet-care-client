@@ -10,8 +10,7 @@ import PrivateRoute from './Pages/Login/PrivateRoute/PrivateRoute';
 import Login from './Pages/Login/Login/Login';
 import AuthProvider from './Contexts/AuthProvider';
 import About from './Pages/About/About';
-import Vats from './Pages/Vats/Vats';
-
+import Vats from './Pages/Home/Vats/Vats';
 
 function App() {
   return (
