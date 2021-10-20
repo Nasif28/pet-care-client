@@ -27,7 +27,7 @@ const Clients = () => {
                             <Card.Title className="text-success fw-bolder">Chew</Card.Title>
                             <Card.Text>
                                 <p></p>
-                                <h6>Back Bone Brocked</h6>
+                                <h6>Back Bone Broked</h6>
                                 <h6>Admitted 3 Month</h6>
                             </Card.Text>
                         </Card.Body>
@@ -40,7 +40,7 @@ const Clients = () => {
                             <Card.Title className="text-success fw-bolder">Mini</Card.Title>
                             <Card.Text>
                                 <p></p>
-                                <h6>Stomach</h6>
+                                <h6>Stomach Infection</h6>
                                 <h6>Admitted 4 Month</h6>
                             </Card.Text>
                         </Card.Body>
@@ -95,7 +95,7 @@ const Clients = () => {
                             <Card.Title className="text-success fw-bolder">Eko</Card.Title>
                             <Card.Text>
                                 <p></p>
-                                <h6>Mental Problem</h6>
+                                <h6>Heart Surgery</h6>
                                 <h6>Admitted 5 Month</h6>
                             </Card.Text>
                         </Card.Body>

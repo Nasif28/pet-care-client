@@ -23,7 +23,10 @@ const Header = () => {
                         {user?.email ?
                             <Navbar.Text className="ms-auto">
                                 Signed in as: <a href="#login">{user?.displayName}</a>
-                                <img className="mx-3 border border-success border-2 rounded-circle" src={user?.photoURL} width="40" height="40" alt="" />
+                                {user?.photoURL ?
+                                    <img className="mx-3 border border-success border-2 rounded-circle" src={user?.photoURL} width="40" height="40" alt="" /> :
+                                    <img className="mx-3 border border-success border-2 rounded-circle" src={'https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/scared-cartoon-face-expression_XkDKCZ_SB_PM.jpg'} width="40" height="40" alt="" />
+                                }
                                 <Button onClick={logOut} className="btn fw-bolder btn-success me-3">Logout</Button>
                             </Navbar.Text>
                             :

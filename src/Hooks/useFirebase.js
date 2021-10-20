@@ -40,6 +40,7 @@ const useFirebase = () => {
                 console.log(user);
                 setError('');
                 setUserName();
+
             })
             .catch(error => {
                 setError(error.message);

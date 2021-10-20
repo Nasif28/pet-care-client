@@ -46,7 +46,7 @@ const Footer = () => {
                         </div>
                     </div>
 
-                    <div className="kick col-12 col-md-12 col-lg-4 py-5 ps-5">
+                    <div className="kick col-12 col-md-12 col-lg-4 ps-5">
                         <img src={'https://cdngeneral.rentcafe.com/dmslivecafe/UploadedImages/d54b143f-1542-4d3d-bba3-7e99eb10907d.jpg'} width="350" height="300" alt="" />
                     </div>
                 </div>

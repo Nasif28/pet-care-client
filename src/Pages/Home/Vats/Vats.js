@@ -22,9 +22,9 @@ const Vats = () => {
                             <div class="row d-flex align-items-center">
                                 <img class="col-12 col-md-12 col-lg-6" src={i1} alt="" />
                                 <div class="col-12 col-md-12 col-lg-6">
-                                    <h4>Dr. Mohammad Mamunur Rashid</h4>
-                                    <p><small>DVM, MS in Theriogenology</small></p>
-                                    <p>Pet animal Consultant & Expert in Spaying Surgery, Neutering of Pet Animal.</p>
+                                <h4>Dr. Md. Mahbubul Alam Bhuiyan</h4>
+                                    <p><small>Additional Veterinary officer</small></p>
+                                    <p>67/2, North Bashaboo, Khilgaon, Dhaka.</p>
                                 </div>
                             </div>
                         </div>
@@ -121,9 +121,9 @@ const Vats = () => {
                             <div class="row d-flex align-items-center">
                                 <img class="col-12 col-md-12 col-lg-6" src={i10} alt="" />
                                 <div class="col-12 col-md-12 col-lg-6">
-                                <h4>Dr. Mohammad Mamunur Rashid</h4>
-                                    <p><small>DVM, MS in Theriogenology</small></p>
-                                    <p>Pet animal Consultant & Expert in Spaying Surgery, Neutering of Pet Animal.</p>
+                                <h4>Dr. Md. Luthfor Rahman</h4>
+                                    <p><small> Veterinary Surgeon</small></p>
+                                    <p>Nikunja-2, Khilkhet, Dhaka.</p>
                                 </div>
                             </div>
                         </div>
