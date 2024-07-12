@@ -1,0 +1,62 @@
+.custom-navbar {
+  background-color: #f8f9fa;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 10px 0;
+}
+
+.custom-brand {
+  font-family: "Pacifico", cursive;
+  font-size: 1.5rem;
+  color: #28a745 !important;
+}
+
+.custom-nav-link {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #343a40 !important;
+  padding: 10px 15px;
+  transition: color 0.3s ease;
+}
+
+.custom-nav-link:hover {
+  color: #28a745 !important;
+}
+
+.custom-nav-link.active {
+  color: #28a745 !important;
+}
+
+.navbar-text {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #343a40;
+}
+
+.navbar-text a {
+  color: #343a40;
+  transition: color 0.3s ease;
+}
+
+.navbar-text a:hover {
+  color: #28a745;
+}
+
+img.rounded-circle {
+  transition: transform 0.3s ease;
+}
+
+img.rounded-circle:hover {
+  transform: scale(1.1);
+}
+
+button.btn-success {
+  font-size: 0.9rem;
+  padding: 5px 15px;
+  border-radius: 20px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+button.btn-success:hover {
+  background-color: #218838;
+  transform: scale(1.05);
+}
